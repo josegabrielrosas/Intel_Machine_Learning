@@ -1,5 +1,5 @@
 # Intel Machine Learning
-This course provides an overview of machine learning fundamentals on modern Intel® architecture. Topics covered include:  
+This course from Intel, provides an overview of machine learning fundamentals on modern Intel® architecture. Topics covered include:  
 <br>Reviewing the types of problems that can be solved 
 <br>Understanding building blocks Learning the fundamentals of building models in machine learning
 <br>Exploring key algorithms
