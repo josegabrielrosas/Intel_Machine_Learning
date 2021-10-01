@@ -31,7 +31,7 @@ You’ll use these tools to work through the exercises each week.
 
 This class introduces the basic concepts and vocabulary of machine learning:
 
-<dd>Supervised learning and how it can be applied to regression and classification problems</dd>
+ <dd>Supervised learning and how it can be applied to regression and classification problems</dd>
 <dd>K-Nearest Neighbor (KNN) algorithm for classification</dd>
 
  
@@ -39,7 +39,7 @@ This class introduces the basic concepts and vocabulary of machine learning:
 
 This class reviews the principles of core model generalization:
 
-<dd>The difference between over-fitting and under-fitting a model</dd>
+ <dd>The difference between over-fitting and under-fitting a model</dd>
 <dd>Bias-variance tradeoffs</dd>
 <dd>Finding the optimal training and test data set splits, cross-validation, and model complexity versus error</dd>
 <dd>Introduction to the linear regression model for supervised learning</dd>
@@ -49,7 +49,7 @@ This class reviews the principles of core model generalization:
 
 This class builds on concepts taught in previous weeks. Additionally you will:
 
-<dd>Learn about cost functions, regularization, feature selection, and hyper-parameters</dd>
+ <dd>Learn about cost functions, regularization, feature selection, and hyper-parameters</dd>
 <dd>Understand more complex statistical optimization algorithms like gradient descent and its application to linear regression</dd>
 
  
@@ -57,7 +57,7 @@ This class builds on concepts taught in previous weeks. Additionally you will:
 
 This class discusses the following:
 
-<dd>Logistic regression and how it differs from linear regression</dd>
+ <dd>Logistic regression and how it differs from linear regression</dd>
 <dd>Metrics for classification errors and scenarios in which they can be used</dd>
 
  
